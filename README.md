@@ -1,7 +1,7 @@
 # i-charybdis-vr
 ![Title Card](https://github.com/sheillashojaie/i-charybdis-vr/assets/7232430/4e71aac2-a679-4ee8-b5ab-5f1de64fbf8e)
 
-I, Charybdis is an interactive virtual reality experience for Meta Quest 2 developed by Carisa Antariksa, Jordanne Chan, and Sheilla Shojaie at [Bodies In VR](https://bip.dmg.to/), a research-creation partnership between OCAD University’s game:play Lab and Social Body Lab, and DMG in summer 2023. 
+_I, Charybdis_ is an interactive virtual reality experience for Meta Quest 2 developed by Carisa Antariksa, Jordanne Chan, and Sheilla Shojaie at [Bodies In VR](https://bip.dmg.to/), a research-creation partnership between OCAD University’s game:play Lab and Social Body Lab, and DMG in summer 2023. 
 
 To be a whirlpool from the first-person perspective, drawing in and casting away your surroundings, gives expression to themes of non-human representation, embodiments of fear and agency, and the roles of women in mythology.
 
