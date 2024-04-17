@@ -5,7 +5,8 @@ _I, Charybdis_ is an interactive virtual reality experience for Meta Quest 2 dev
 
 To be a whirlpool from the first-person perspective, drawing in and casting away your surroundings, gives expression to themes of non-human representation, embodiments of fear and agency, and the roles of women in mythology.
 
-<img src="https://github.com/sheillashojaie/i-charybdis-vr/assets/7232430/5fff6746-b1f6-4c91-842a-413d950fe777" alt="Demo Presentation" width="500"/>
+<img src="https://github.com/sheillashojaie/vr-i-charybdis/assets/7232430/6fca4703-318d-4310-841b-18ac2c4c9c13" alt="Demo Presentation" width="570"/>
+
 
 
 
